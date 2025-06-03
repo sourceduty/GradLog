@@ -15,3 +15,5 @@ GradLog can be considered a groundbreaking new function, primarily because it re
 #
 
 [Math Tools](https://github.com/sourceduty/Math_Tools)
+<br>
+[Sourceduty Math](https://chatgpt.com/g/g-67cc981656b8819196c22b67c9fbbb8c-sourceduty-math)
